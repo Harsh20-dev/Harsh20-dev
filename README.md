@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsh20-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh20-dev" /> </p>
 
-🎯 Currently learning **Machine Learning: Deep Learning, Data Science, AI**<br>💡 Building a **Spam Email detection**<br>🧠 Exploring **Machine Learning** and **Smart Building Integrations**<br>📚 Preparing for **GSoC 2026** and **MLH Fellowship**<br>🌱 Passionate about **open source** and real-world problem solving
+🎯 Currently learning **Machine Learning: Deep Learning, Data Science, AI**<br>💡 Building a **Spam Email detection**<br>🧠 Exploring **Machine Learning** and **Smart Building Integrations**<br>📚 Preparing for **GSoC 2026** and <br>🌱 Passionate about **open source** and real-world problem solving
 
 
 ## 🌐 Socials:
